@@ -5,3 +5,11 @@
 !.gitignore
 !converter.py
 !environment.yml
+
+# Manter diretórios (necessário pra Git enxergar o caminho dos arquivos liberados)
+!*/
+
+#Ignore a pasta assets
+assets/
+
+
