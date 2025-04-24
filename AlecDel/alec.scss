@@ -1,0 +1,36 @@
+body > sb-side-menu > ion-side-menus > ion-side-menu-content > ion-nav-view > ion-view > ion-content > ng-include > div > div > ion-content {
+	height: 88% !important;
+    position: absolute;
+    left: 74% !important;
+    width: 50% !important;
+    
+  
+  div {
+    ul {
+    display: flex;
+    flex-direction: column;
+     height: 100% !important;
+      
+      li {
+      	height: 20% !important;
+      }
+      
+      
+      
+       li > div > img, p {
+ 			display: none !important;
+         	
+ 		}
+      
+      
+    }
+  
+  }
+  
+
+}
+
+ body > sb-side-menu > ion-side-menus > ion-side-menu-content > ion-nav-view > ion-view > ion-content > ng-include > div > div > ion-content > div.scroll {
+ 	transform: none !important;
+ 	height: 81% !important;
+ }

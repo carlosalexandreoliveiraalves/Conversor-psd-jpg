@@ -1,0 +1,7 @@
+#Ignorar tudo
+*
+
+#Não ignorar o .gitignore e o converter.py
+!.gitignore
+!converter.py
+!environment.yml
